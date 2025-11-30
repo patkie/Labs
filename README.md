@@ -11,8 +11,8 @@ Managing Risk in Information Systems.
 
 Fundamentals of Communication & Networking.
 Labs in this section focus on network architecture, traffic analysis, routing, switching, network performance, and layered security.
-Included Labs:
 
+Included Labs:
 Analyzing Data Link & Network Layer Traffic with Wireshark,
 Analyzing Transport & Application Layer Traffic with Wireshark,
 Assessing the Physical and Logical Network Infrastructure,
@@ -28,8 +28,8 @@ Troubleshooting Common Network Issues.
 
 Fundamentals of Information Technology.
 These labs focus on authentication, encryption, vulnerability scanning, incident response, logging, policy enforcement, and secure system administration.
-Included Labs:
 
+Included Labs:
 Applying User Authentication and Access Controls,
 Assessing Common Attack Vectors,
 Configuring Backup and Recovery Functions,
@@ -45,8 +45,8 @@ Using Encryption to Enhance Confidentiality and Integrity.
 
 Managing Risk in Information Systems.
 This section contains labs focused on NIST frameworks, PCI DSS, vulnerability identification, asset inventory, business impact analysis, and formal risk assessment & mitigation.
-Included Labs:
 
+Included Labs:
 Analyzing the Incident Response Process,
 Conducting a PCI DSS Compliance Review,
 Creating an IT Asset Inventory,
