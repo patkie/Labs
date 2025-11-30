@@ -3,7 +3,7 @@ This repository contains 30 hands-on labs covering networking, IT fundamentals, 
 
 All labs are grouped into the three major areas of my cybersecurity coursework:
 Fundamentals of Communication and Networking,
-Fundamentals of Information Technology, and
+Fundamentals of Information Systems Security, and
 Managing Risk in Information Systems.
 
 
@@ -26,7 +26,7 @@ Troubleshooting Common Network Issues.
 
 
 
-Fundamentals of Information Technology.
+Fundamentals of Information Systems Security .
 These labs focus on authentication, encryption, vulnerability scanning, incident response, logging, policy enforcement, and secure system administration.
 
 Included Labs:
